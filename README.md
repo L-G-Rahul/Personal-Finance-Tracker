@@ -44,8 +44,8 @@ A **command-line personal finance tracker** that helps you monitor income, expen
 4.  **Login**
     Use the predefined credentials to log in:
 
-      * **Username:** `Samarjit`
-      * **Password:** `roy`
+      * **Username:** `Gautham`
+      * **Password:** `Cozy`
 
 5.  **Use the Tracker**
     Follow the on-screen menu to manage your finances\!
