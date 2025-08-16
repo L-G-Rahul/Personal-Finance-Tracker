@@ -1,5 +1,7 @@
 # 💰 Personal Finance Tracker
 
+##🏦 coZy'S BANK OF INDIA
+
 ### 📌 Overview
 
 A **command-line personal finance tracker** that helps you monitor income, expenses, and financial goals. Built with a focus on clean data management, it uses a list of dictionaries to store transaction records and provides features for searching, sorting, and summarizing your financial activity. It's a practical tool for anyone looking to get a better handle on their budget.
