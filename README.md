@@ -1,6 +1,4 @@
-# 💰 Personal Finance Tracker
-
-###🏦 coZy'S BANK OF INDIA
+# 💰 Personal Finance Tracker  🏦💳 coZy'S BANK OF INDIA
 
 ### 📌 Overview
 
